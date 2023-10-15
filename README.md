@@ -1,2 +1,2 @@
-# calculo_vetorial
-Arquivos fonte do libro de cálculo vetorial
+# Cálculo Vetorial
+Arquivos fonte do livro de cálculo vetorial
